@@ -25,11 +25,6 @@
     }
   },
   "regions": ["fra1"],
-  "functions": {
-    "pages/api/**/*.js": {
-      "maxDuration": 10
-    }
-  },
   "headers": [
     {
       "source": "/_next/static/(.*)",
